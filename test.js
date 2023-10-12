@@ -1,10 +1,7 @@
 function test() {
-  console.log("test3");
-  console.log("test3");
+  const a = 1;
 }
 
 function test2() {
-  console.log("test2");
-  console.log("test3");
-  console.log("test5");
+  const a = 2;
 }
