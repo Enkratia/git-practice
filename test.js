@@ -7,6 +7,5 @@ function test2() {
 }
 
 function rebase() {
-  console.log("rebase_rebase_rebase");
   console.log("rebase2");
 }
