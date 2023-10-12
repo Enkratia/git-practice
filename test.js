@@ -1,5 +1,6 @@
 function test() {
   const a = 1;
+  const b = 10;
 }
 
 function test2() {
