@@ -5,3 +5,7 @@ function test() {
 function test2() {
   console.log("test-finish");
 }
+
+function rebase() {
+  console.log("rebase-rebase");
+}
