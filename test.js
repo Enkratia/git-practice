@@ -1,8 +1,3 @@
-function test() {
-  const a = 1;
-  const b = 10;
-}
+function test() {}
 
-function test2() {
-  const a = 2;
-}
+function test2() {}
