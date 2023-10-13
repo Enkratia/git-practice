@@ -10,4 +10,5 @@ function rebase() {
   console.log("not change");
   console.log("not change");
   console.log("not change");
+  console.log("not change");
 }
