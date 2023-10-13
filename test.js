@@ -1,5 +1,5 @@
 function test() {
-  console.log("test-finish");
+  console.log("change");
 }
 
 function test2() {
