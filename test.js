@@ -8,4 +8,6 @@ function test2() {
 
 function rebase() {
   console.log("not change");
+  console.log("not change");
+  console.log("not change");
 }
