@@ -3,7 +3,7 @@ function test() {
 }
 
 function test2() {
-  console.log("change");
+  console.log("no change");
 }
 
 function rebase() {
