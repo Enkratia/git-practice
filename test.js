@@ -1,5 +1,6 @@
 function test() {
   console.log("no change");
+  console.log("no change");
 }
 
 function test2() {
@@ -7,8 +8,5 @@ function test2() {
 }
 
 function rebase() {
-  console.log("not change");
-  console.log("not change");
-  console.log("not change");
   console.log("not change");
 }
